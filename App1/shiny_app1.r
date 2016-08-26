@@ -1,7 +1,7 @@
 ui <-  fluidPage(    
   
 
-  titlePanel("Desenvolvimento Monetário do Brasil no Século XX"),
+  titlePanel("Desenvolvimento MonetÃ¡rio do Brasil no SÃ©culo XX"),
 
   
   sidebarLayout(      
@@ -10,7 +10,7 @@ ui <-  fluidPage(
     sidebarPanel(
       selectInput("ano_inicial", "De:", 
                   choices=names(table(a$ano))), 
-      selectInput("ano_final","Até:",
+      selectInput("ano_final","AtÃ©:",
                   choices= names(table(a$ano))),
       hr(),
       helpText("Fonte: IBGE.")
@@ -40,7 +40,7 @@ server <- function(input, output) {
     #############################
     
     g + scale_y_continuous(labels = comma) + 
-      ggtitle("Desenvolvimento Monetário do Brasil no Século XX - 1900 - 1930") + 
+      ggtitle("Desenvolvimento MonetÃ¡rio do Brasil no SÃ©culo XX - 1900 - 1930") + 
       theme_bw() +
       theme(title = element_text(size = 10, face = 'bold', family = "Garamond"),
             axis.title = element_blank(),
