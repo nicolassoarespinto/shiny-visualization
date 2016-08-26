@@ -1,0 +1,1601 @@
+"ano";"periodo";"moeda";"key";"value";"var"
+"1";"1901";1901-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";136.3;NA
+"2";"1901";1901-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";168.8;1.23844460748349
+"3";"1901";1901-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";149.6;0.886255924170616
+"4";"1901";1901-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";134.4;0.898395721925134
+"5";"1902";1902-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";125;0.930059523809524
+"6";"1902";1902-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";121.7;0.9736
+"7";"1902";1902-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";118.3;0.972062448644207
+"8";"1902";1902-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";118.6;1.00253592561285
+"9";"1903";1903-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";111;0.935919055649241
+"10";"1903";1903-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";122.3;1.1018018018018
+"11";"1903";1903-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";121.9;0.996729354047424
+"12";"1903";1903-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";113.4;0.930270713699754
+"13";"1904";1904-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";84.6;0.746031746031746
+"14";"1904";1904-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";93.6;1.1063829787234
+"15";"1904";1904-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";101.2;1.08119658119658
+"16";"1904";1904-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";78;0.770750988142292
+"17";"1905";1905-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";86.2;1.10512820512821
+"18";"1905";1905-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";109.7;1.27262180974478
+"19";"1905";1905-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";111.2;1.01367365542388
+"20";"1905";1905-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";103.9;0.934352517985612
+"21";"1906";1906-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";102.7;0.988450433108758
+"22";"1906";1906-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";91.5;0.890944498539435
+"23";"1906";1906-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";88.3;0.965027322404372
+"24";"1906";1906-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";79.3;0.898074745186863
+"25";"1907";1907-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";91.7;1.15636822194199
+"26";"1907";1907-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";98.5;1.07415485278081
+"27";"1907";1907-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";98.3;0.997969543147208
+"28";"1907";1907-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";102.3;1.04069175991862
+"29";"1908";1908-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";108.9;1.06451612903226
+"30";"1908";1908-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";111.9;1.02754820936639
+"31";"1908";1908-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";107.4;0.959785522788204
+"32";"1908";1908-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";101.4;0.94413407821229
+"33";"1909";1909-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";108.9;1.07396449704142
+"34";"1909";1909-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";100.2;0.920110192837466
+"35";"1909";1909-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";101.5;1.01297405189621
+"36";"1909";1909-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";139.5;1.3743842364532
+"37";"1910";1910-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";130.2;0.933333333333333
+"38";"1910";1910-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";164.5;1.26344086021505
+"39";"1910";1910-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";155.2;0.943465045592705
+"40";"1910";1910-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";142.7;0.919458762886598
+"41";"1911";1911-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";142.8;1.00070077084793
+"42";"1911";1911-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";168.6;1.18067226890756
+"43";"1911";1911-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";187.7;1.11328588374852
+"44";"1911";1911-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";182.5;0.972296217368141
+"45";"1912";1912-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";177.2;0.970958904109589
+"46";"1912";1912-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";170;0.959367945823928
+"47";"1912";1912-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";162.5;0.955882352941177
+"48";"1912";1912-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";165;1.01538461538462
+"49";"1913";1913-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";164.3;0.995757575757576
+"50";"1913";1913-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";163.6;0.995739500912964
+"51";"1913";1913-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";168.3;1.02872860635697
+"52";"1913";1913-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";173;1.02792632204397
+"53";"1914";1914-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";188;1.08670520231214
+"54";"1914";1914-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";203;1.07978723404255
+"55";"1914";1914-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";211;1.03940886699507
+"56";"1914";1914-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";284;1.34597156398104
+"57";"1915";1915-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";312;1.09859154929577
+"58";"1915";1915-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";291;0.932692307692308
+"59";"1915";1915-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";301;1.03436426116838
+"60";"1915";1915-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";311;1.03322259136213
+"61";"1916";1916-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";312;1.0032154340836
+"62";"1916";1916-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";349;1.11858974358974
+"63";"1916";1916-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";333;0.954154727793696
+"64";"1916";1916-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";299;0.897897897897898
+"65";"1917";1917-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";291;0.973244147157191
+"66";"1917";1917-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";296;1.01718213058419
+"67";"1917";1917-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";340;1.14864864864865
+"68";"1917";1917-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";356;1.04705882352941
+"69";"1918";1918-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";402;1.12921348314607
+"70";"1918";1918-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";463;1.15174129353234
+"71";"1918";1918-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";425;0.91792656587473
+"72";"1918";1918-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";464;1.09176470588235
+"73";"1919";1919-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";496;1.06896551724138
+"74";"1919";1919-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";469;0.945564516129032
+"75";"1919";1919-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";431;0.918976545842217
+"76";"1919";1919-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";512;1.18793503480278
+"77";"1920";1920-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";506;0.98828125
+"78";"1920";1920-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";606;1.19762845849802
+"79";"1920";1920-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";659;1.08745874587459
+"80";"1920";1920-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";732;1.11077389984826
+"81";"1921";1921-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";837;1.14344262295082
+"82";"1921";1921-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";788;0.941457586618877
+"83";"1921";1921-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";676;0.857868020304569
+"84";"1921";1921-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";727;1.07544378698225
+"85";"1922";1922-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";577;0.793672627235213
+"86";"1922";1922-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";646;1.11958405545927
+"87";"1922";1922-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";494;0.764705882352941
+"88";"1922";1922-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";563;1.13967611336032
+"89";"1923";1923-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";542;0.962699822380107
+"90";"1923";1923-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";609;1.12361623616236
+"91";"1923";1923-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";480;0.788177339901478
+"92";"1923";1923-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";561;1.16875
+"93";"1924";1924-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";548;0.976827094474153
+"94";"1924";1924-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";453;0.826642335766423
+"95";"1924";1924-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";507;1.11920529801324
+"96";"1924";1924-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";574;1.13214990138067
+"97";"1925";1925-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";533;0.928571428571429
+"98";"1925";1925-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";535;1.00375234521576
+"99";"1925";1925-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";540;1.00934579439252
+"100";"1925";1925-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";517;0.957407407407407
+"101";"1926";1926-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";448;0.866537717601547
+"102";"1926";1926-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";598;1.33482142857143
+"103";"1926";1926-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";679;1.13545150501672
+"104";"1926";1926-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";450;0.662739322533137
+"105";"1927";1927-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";538;1.19555555555556
+"106";"1927";1927-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";503;0.934944237918216
+"107";"1927";1927-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";471;0.936381709741551
+"108";"1927";1927-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";549;1.1656050955414
+"109";"1928";1928-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";444;0.808743169398907
+"110";"1928";1928-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";553;1.2454954954955
+"111";"1928";1928-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";480;0.867992766726944
+"112";"1928";1928-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";540;1.125
+"113";"1929";1929-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";458;0.848148148148148
+"114";"1929";1929-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";460;1.00436681222707
+"115";"1929";1929-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";571;1.24130434782609
+"116";"1929";1929-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";579;1.01401050788091
+"117";"1930";1930-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";534;0.922279792746114
+"118";"1930";1930-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";518;0.970037453183521
+"119";"1930";1930-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";524;1.01158301158301
+"120";"1930";1930-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";573;1.09351145038168
+"121";"1931";1931-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";481;0.839441535776614
+"122";"1931";1931-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";527;1.0956340956341
+"123";"1931";1931-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";637;1.20872865275142
+"124";"1931";1931-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";646;1.01412872841444
+"125";"1932";1932-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";727;1.12538699690402
+"126";"1932";1932-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";664;0.91334250343879
+"127";"1932";1932-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";836;1.25903614457831
+"128";"1932";1932-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";571;0.683014354066986
+"129";"1933";1933-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";502;0.879159369527145
+"130";"1933";1933-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";495;0.98605577689243
+"131";"1933";1933-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";434;0.876767676767677
+"132";"1933";1933-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";443;1.02073732718894
+"133";"1934";1934-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";468;1.05643340857788
+"134";"1934";1934-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";468;1
+"135";"1934";1934-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";446;0.952991452991453
+"136";"1934";1934-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";463;1.03811659192825
+"137";"1935";1935-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";420;0.907127429805616
+"138";"1935";1935-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";449;1.06904761904762
+"139";"1935";1935-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";465;1.03563474387528
+"140";"1935";1935-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";483;1.03870967741935
+"141";"1936";1936-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";492;1.01863354037267
+"142";"1936";1936-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";515;1.04674796747967
+"143";"1936";1936-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";525;1.01941747572816
+"144";"1936";1936-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";550;1.04761904761905
+"145";"1937";1937-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";573;1.04181818181818
+"146";"1937";1937-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";634;1.1064572425829
+"147";"1937";1937-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";561;0.884858044164038
+"148";"1937";1937-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";665;1.18538324420677
+"149";"1938";1938-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";652;0.980451127819549
+"150";"1938";1938-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";768;1.17791411042945
+"151";"1938";1938-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";664;0.864583333333333
+"152";"1938";1938-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";692;1.0421686746988
+"153";"1939";1939-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";589;0.851156069364162
+"154";"1939";1939-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";665;1.12903225806452
+"155";"1939";1939-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";679;1.02105263157895
+"156";"1939";1939-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";755;1.1119293078056
+"157";"1940";1940-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";698;0.924503311258278
+"158";"1940";1940-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";731;1.04727793696275
+"159";"1940";1940-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";690;0.94391244870041
+"160";"1940";1940-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";764;1.10724637681159
+"161";"1941";1941-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";737;0.964659685863874
+"162";"1941";1941-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";837;1.13568521031208
+"163";"1941";1941-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";898;1.07287933094385
+"164";"1941";1941-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_bancos";931;1.03674832962138
+"165";"1942";1942-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";935;1.00429645542428
+"166";"1942";1942-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1114;1.19144385026738
+"167";"1942";1942-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";906;0.813285457809695
+"168";"1942";1942-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1164;1.28476821192053
+"169";"1943";1943-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1254;1.07731958762887
+"170";"1943";1943-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1516;1.20893141945774
+"171";"1943";1943-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1509;0.995382585751979
+"172";"1943";1943-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1761;1.16699801192843
+"173";"1944";1944-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1655;0.939806927881885
+"174";"1944";1944-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2070;1.25075528700906
+"175";"1944";1944-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2021;0.976328502415459
+"176";"1944";1944-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1973;0.97624938149431
+"177";"1945";1945-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";1950;0.988342625443487
+"178";"1945";1945-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2301;1.18
+"179";"1945";1945-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2242;0.974358974358974
+"180";"1945";1945-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2375;1.05932203389831
+"181";"1946";1946-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2100;0.884210526315789
+"182";"1946";1946-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2500;1.19047619047619
+"183";"1946";1946-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2500;1
+"184";"1946";1946-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2700;1.08
+"185";"1947";1947-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2300;0.851851851851852
+"186";"1947";1947-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2500;1.08695652173913
+"187";"1947";1947-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2400;0.96
+"188";"1947";1947-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2500;1.04166666666667
+"189";"1948";1948-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2400;0.96
+"190";"1948";1948-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2600;1.08333333333333
+"191";"1948";1948-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2500;0.961538461538462
+"192";"1948";1948-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2800;1.12
+"193";"1949";1949-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";2800;1
+"194";"1949";1949-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";3100;1.10714285714286
+"195";"1949";1949-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";3000;0.967741935483871
+"196";"1949";1949-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";3300;1.1
+"197";"1950";1950-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";3100;0.939393939393939
+"198";"1950";1950-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";3500;1.12903225806452
+"199";"1950";1950-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";4000;1.14285714285714
+"200";"1950";1950-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";4500;1.125
+"201";"1951";1951-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";4400;0.977777777777778
+"202";"1951";1951-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";4700;1.06818181818182
+"203";"1951";1951-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";4600;0.978723404255319
+"204";"1951";1951-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";5200;1.1304347826087
+"205";"1952";1952-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";4800;0.923076923076923
+"206";"1952";1952-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";5000;1.04166666666667
+"207";"1952";1952-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";5100;1.02
+"208";"1952";1952-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";5500;1.07843137254902
+"209";"1953";1953-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";5100;0.927272727272727
+"210";"1953";1953-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";5600;1.09803921568627
+"211";"1953";1953-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";5600;1
+"212";"1953";1953-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";6200;1.10714285714286
+"213";"1954";1954-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";5700;0.919354838709677
+"214";"1954";1954-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";6300;1.10526315789474
+"215";"1954";1954-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";6500;1.03174603174603
+"216";"1954";1954-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";7100;1.09230769230769
+"217";"1955";1955-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";6500;0.915492957746479
+"218";"1955";1955-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";7400;1.13846153846154
+"219";"1955";1955-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";7600;1.02702702702703
+"220";"1955";1955-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";8200;1.07894736842105
+"221";"1956";1956-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";7800;0.951219512195122
+"222";"1956";1956-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";9700;1.24358974358974
+"223";"1956";1956-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";8800;0.907216494845361
+"224";"1956";1956-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";10300;1.17045454545455
+"225";"1957";1957-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";9000;0.87378640776699
+"226";"1957";1957-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";9900;1.1
+"227";"1957";1957-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";10000;1.01010101010101
+"228";"1957";1957-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";11900;1.19
+"229";"1958";1958-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";11500;0.966386554621849
+"230";"1958";1958-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";13500;1.17391304347826
+"231";"1958";1958-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";13200;0.977777777777778
+"232";"1958";1958-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";15600;1.18181818181818
+"233";"1959";1959-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";15300;0.980769230769231
+"234";"1959";1959-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";15900;1.03921568627451
+"235";"1959";1959-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";16900;1.06289308176101
+"236";"1959";1959-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";21400;1.26627218934911
+"237";"1960";1960-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";19900;0.929906542056075
+"238";"1960";1960-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";23300;1.17085427135678
+"239";"1960";1960-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";23300;1
+"240";"1960";1960-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";28200;1.21030042918455
+"241";"1961";1961-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";26400;0.936170212765957
+"242";"1961";1961-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";31000;1.17424242424242
+"243";"1961";1961-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";32600;1.05161290322581
+"244";"1961";1961-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";39800;1.22085889570552
+"245";"1962";1962-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";38400;0.964824120603015
+"246";"1962";1962-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";47300;1.23177083333333
+"247";"1962";1962-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";47800;1.01057082452431
+"248";"1962";1962-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";81100;1.69665271966527
+"249";"1963";1963-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";59500;0.733662145499383
+"250";"1963";1963-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";73500;1.23529411764706
+"251";"1963";1963-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";89100;1.21224489795918
+"252";"1963";1963-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";137600;1.54433221099888
+"253";"1964";1964-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";129000;0.9375
+"254";"1964";1964-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";157000;1.21705426356589
+"255";"1964";1964-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";161000;1.02547770700637
+"256";"1964";1964-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";233000;1.4472049689441
+"257";"1965";1965-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";203000;0.871244635193133
+"258";"1965";1965-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";248000;1.22167487684729
+"259";"1965";1965-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";241000;0.971774193548387
+"260";"1965";1965-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";344000;1.42738589211618
+"261";"1966";1966-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";291000;0.845930232558139
+"262";"1966";1966-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";364000;1.25085910652921
+"263";"1966";1966-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";348000;0.956043956043956
+"264";"1966";1966-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_bancos";398000;1.14367816091954
+"265";"1967";1967-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";368;0.000924623115577889
+"266";"1967";1967-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";467;1.26902173913043
+"267";"1967";1967-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";433;0.927194860813705
+"268";"1967";1967-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";514;1.18706697459584
+"269";"1968";1968-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";484;0.941634241245136
+"270";"1968";1968-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";567;1.17148760330579
+"271";"1968";1968-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";550;0.970017636684303
+"272";"1968";1968-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";890;1.61818181818182
+"273";"1969";1969-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";564;0.633707865168539
+"274";"1969";1969-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";789;1.39893617021277
+"275";"1969";1969-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";569;0.721166032953105
+"276";"1969";1969-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";824;1.4481546572935
+"277";"1970";1970-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_bancos";592;0.718446601941748
+"278";"1970";1970-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";874;1.47635135135135
+"279";"1970";1970-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";817;0.934782608695652
+"280";"1970";1970-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";919;1.12484700122399
+"281";"1971";1971-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";826;0.898803046789989
+"282";"1971";1971-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1174;1.42130750605327
+"283";"1971";1971-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1095;0.932708688245315
+"284";"1971";1971-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";943;0.861187214611872
+"285";"1972";1972-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";817;0.866383881230117
+"286";"1972";1972-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";961;1.17625458996328
+"287";"1972";1972-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";897;0.933402705515088
+"288";"1972";1972-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1171;1.30546265328874
+"289";"1973";1973-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1044;0.891545687446627
+"290";"1973";1973-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1193;1.14272030651341
+"291";"1973";1973-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1256;1.05280804694049
+"292";"1973";1973-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1957;1.55812101910828
+"293";"1974";1974-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1430;0.730710270822688
+"294";"1974";1974-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1627;1.13776223776224
+"295";"1974";1974-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";2248;1.38168408113092
+"296";"1974";1974-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";2392;1.06405693950178
+"297";"1975";1975-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";3242;1.35535117056856
+"298";"1975";1975-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";2951;0.91024059222702
+"299";"1975";1975-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";2769;0.938325991189427
+"300";"1975";1975-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";3080;1.11231491513182
+"301";"1976";1976-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";3471;1.12694805194805
+"302";"1976";1976-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";3782;1.08959953903774
+"303";"1976";1976-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";4105;1.08540454785828
+"304";"1976";1976-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";3824;0.931546894031669
+"305";"1977";1977-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";4928;1.28870292887029
+"306";"1977";1977-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";5555;1.12723214285714
+"307";"1977";1977-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";4923;0.886228622862286
+"308";"1977";1977-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";4761;0.96709323583181
+"309";"1978";1978-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";5471;1.14912833438353
+"310";"1978";1978-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";6123;1.11917382562603
+"311";"1978";1978-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";6767;1.1051772007186
+"312";"1978";1978-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";7671;1.13358947835082
+"313";"1979";1979-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";8159;1.06361621692087
+"314";"1979";1979-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";9499;1.1642358132124
+"315";"1979";1979-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";11058;1.16412253921465
+"316";"1979";1979-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";16404;1.48345089527944
+"317";"1980";1980-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";22288;1.3586930017069
+"318";"1980";1980-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";27040;1.21320890165111
+"319";"1980";1980-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";26485;0.979474852071006
+"320";"1980";1980-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";29570;1.11648102699641
+"321";"1981";1981-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";33910;1.14677037538045
+"322";"1981";1981-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";41802;1.23273370687113
+"323";"1981";1981-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";46651;1.11599923448639
+"324";"1981";1981-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";51294;1.09952626953334
+"325";"1982";1982-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";66811;1.30251101493352
+"326";"1982";1982-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";84839;1.26983580548113
+"327";"1982";1982-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";98197;1.15745117222032
+"328";"1982";1982-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";84141;0.856859170850433
+"329";"1983";1983-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";104784;1.24533818233679
+"330";"1983";1983-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";178979;1.70807566040617
+"331";"1983";1983-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";151582;0.84692617569659
+"332";"1983";1983-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";140265;0.92534073966566
+"333";"1984";1984-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";226000;1.61123587495099
+"334";"1984";1984-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";286000;1.26548672566372
+"335";"1984";1984-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";365000;1.27622377622378
+"336";"1984";1984-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";660000;1.80821917808219
+"337";"1985";1985-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";719000;1.08939393939394
+"338";"1985";1985-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";1034000;1.43810848400556
+"339";"1985";1985-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";2147000;2.07640232108317
+"340";"1985";1985-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";3042000;1.41686073591057
+"341";"1986";1986-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";6781;0.00222912557527942
+"342";"1986";1986-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";6145;0.906208523816546
+"343";"1986";1986-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";6553;1.06639544344996
+"344";"1986";1986-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";7477;1.14100412025027
+"345";"1987";1987-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";17153;2.29410191253176
+"346";"1987";1987-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";13494;0.786684544977555
+"347";"1987";1987-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";18802;1.39336001185712
+"348";"1987";1987-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";18203;0.968141687054569
+"349";"1988";1988-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";28832;1.58391473932868
+"350";"1988";1988-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";56664;1.96531631520533
+"351";"1988";1988-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";68000;1.2000564732458
+"352";"1988";1988-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_bancos";69000;1.01470588235294
+"353";"1989";1989-03-31;"Milhões de cruzados novos (NCz$ 1.000.000)";"caixa_bancos";179;0.00259420289855072
+"354";"1989";1989-06-30;"Milhões de cruzados novos (NCz$ 1.000.000)";"caixa_bancos";216;1.20670391061453
+"355";"1989";1989-09-30;"Milhões de cruzados novos (NCz$ 1.000.000)";"caixa_bancos";358;1.65740740740741
+"356";"1989";1989-12-31;"Milhões de cruzados novos (NCz$ 1.000.000)";"caixa_bancos";826;2.3072625698324
+"357";"1990";1990-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";4435;5.36924939467312
+"358";"1990";1990-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";5498;1.23968432919955
+"359";"1990";1990-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";7927;1.44179701709713
+"360";"1990";1990-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";8355;1.05399268323452
+"361";"1991";1991-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";13992;1.67468581687612
+"362";"1991";1991-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";14605;1.04381074899943
+"363";"1991";1991-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";30404;2.08175282437521
+"364";"1991";1991-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";37634;1.23779765820287
+"365";"1992";1992-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";64496;1.71376946378275
+"366";"1992";1992-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";101551;1.57453175390722
+"367";"1992";1992-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";189583;1.86687477228191
+"368";"1992";1992-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";282500;1.49011251008793
+"369";"1993";1993-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";460716;1.63085309734513
+"370";"1993";1993-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_bancos";944392;2.04983547348041
+"371";"1993";1993-09-30;"Milhões de cruzeiros reais (CR$ 1.000.000)";"caixa_bancos";2438;0.00258155511694296
+"372";"1993";1993-12-31;"Milhões de cruzeiros reais (CR$ 1.000.000)";"caixa_bancos";5769;2.36628383921247
+"373";"1994";1994-03-31;"Milhões de cruzeiros reais (CR$ 1.000.000)";"caixa_bancos";13532;2.34564049228636
+"374";"1994";1994-06-30;"Milhões de cruzeiros reais (CR$ 1.000.000)";"caixa_bancos";28499;2.10604493053503
+"375";"1994";1994-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";41;0.00143864697006913
+"376";"1994";1994-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";52;1.26829268292683
+"377";"1995";1995-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";57;1.09615384615385
+"378";"1995";1995-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";62;1.08771929824561
+"379";"1995";1995-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";75;1.20967741935484
+"380";"1995";1995-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";78;1.04
+"381";"1996";1996-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";83;1.06410256410256
+"382";"1996";1996-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";92;1.10843373493976
+"383";"1996";1996-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";135;1.46739130434783
+"384";"1996";1996-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";114;0.844444444444444
+"385";"1997";1997-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";183;1.60526315789474
+"386";"1997";1997-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";177;0.967213114754098
+"387";"1997";1997-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";169;0.954802259887006
+"388";"1997";1997-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";152;0.899408284023669
+"389";"1998";1998-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";157;1.03289473684211
+"390";"1998";1998-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";173;1.10191082802548
+"391";"1998";1998-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";168;0.971098265895954
+"392";"1998";1998-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";165;0.982142857142857
+"393";"1999";1999-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";172;1.04242424242424
+"394";"1999";1999-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";173;1.00581395348837
+"395";"1999";1999-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";34;0.196531791907514
+"396";"1999";1999-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";27;0.794117647058823
+"397";"2000";2000-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";30;1.11111111111111
+"398";"2000";2000-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";27;0.9
+"399";"2000";2000-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";27;1
+"400";"2000";2000-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_bancos";26;0.962962962962963
+"401";"1901";1901-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";28.3;1.08846153846154
+"402";"1901";1901-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";33.4;1.18021201413428
+"403";"1901";1901-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";27.9;0.835329341317365
+"404";"1901";1901-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";21.4;0.767025089605735
+"405";"1902";1902-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";21;0.981308411214953
+"406";"1902";1902-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";39.3;1.87142857142857
+"407";"1902";1902-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";42;1.06870229007634
+"408";"1902";1902-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";39.5;0.94047619047619
+"409";"1903";1903-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";43.1;1.09113924050633
+"410";"1903";1903-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";43.7;1.0139211136891
+"411";"1903";1903-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";38.2;0.874141876430206
+"412";"1903";1903-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";48.3;1.26439790575916
+"413";"1904";1904-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";38.5;0.797101449275362
+"414";"1904";1904-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";54.9;1.42597402597403
+"415";"1904";1904-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";61.4;1.1183970856102
+"416";"1904";1904-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";36.8;0.599348534201954
+"417";"1905";1905-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";51.6;1.40217391304348
+"418";"1905";1905-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";100.5;1.94767441860465
+"419";"1905";1905-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";75.5;0.751243781094527
+"420";"1905";1905-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";42.9;0.568211920529801
+"421";"1906";1906-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";39.5;0.920745920745921
+"422";"1906";1906-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";33.3;0.843037974683544
+"423";"1906";1906-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";27.1;0.813813813813814
+"424";"1906";1906-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";20.9;0.771217712177122
+"425";"1907";1907-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";11.5;0.550239234449761
+"426";"1907";1907-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";32.3;2.80869565217391
+"427";"1907";1907-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";18.5;0.572755417956656
+"428";"1907";1907-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";31.9;1.72432432432432
+"429";"1908";1908-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";68.1;2.13479623824451
+"430";"1908";1908-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";85.4;1.25403817914831
+"431";"1908";1908-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";82.8;0.969555035128805
+"432";"1908";1908-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";44.7;0.539855072463768
+"433";"1909";1909-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";33.1;0.740492170022371
+"434";"1909";1909-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";52.1;1.57401812688822
+"435";"1909";1909-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";30.6;0.587332053742802
+"436";"1909";1909-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";40.5;1.32352941176471
+"437";"1910";1910-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";20.4;0.503703703703704
+"438";"1910";1910-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";60;2.94117647058824
+"439";"1910";1910-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";85.3;1.42166666666667
+"440";"1910";1910-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";53.7;0.629542790152403
+"441";"1911";1911-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";23.3;0.43389199255121
+"442";"1911";1911-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";41.3;1.7725321888412
+"443";"1911";1911-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";63.5;1.53753026634383
+"444";"1911";1911-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";55.3;0.870866141732283
+"445";"1912";1912-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";47.1;0.851717902350814
+"446";"1912";1912-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";33.2;0.704883227176221
+"447";"1912";1912-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";34.6;1.0421686746988
+"448";"1912";1912-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";36;1.04046242774566
+"449";"1913";1913-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";35.5;0.986111111111111
+"450";"1913";1913-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";35;0.985915492957746
+"451";"1913";1913-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";38;1.08571428571429
+"452";"1913";1913-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";41;1.07894736842105
+"453";"1914";1914-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";39.5;0.963414634146341
+"454";"1914";1914-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";38;0.962025316455696
+"455";"1914";1914-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";36;0.947368421052632
+"456";"1914";1914-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";28;0.777777777777778
+"457";"1915";1915-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";35;1.25
+"458";"1915";1915-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";26;0.742857142857143
+"459";"1915";1915-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";30;1.15384615384615
+"460";"1915";1915-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";30;1
+"461";"1916";1916-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";32;1.06666666666667
+"462";"1916";1916-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";32;1
+"463";"1916";1916-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";39;1.21875
+"464";"1916";1916-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";41;1.05128205128205
+"465";"1917";1917-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";36;0.878048780487805
+"466";"1917";1917-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";27;0.75
+"467";"1917";1917-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";27;1
+"468";"1917";1917-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";31;1.14814814814815
+"469";"1918";1918-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";28;0.903225806451613
+"470";"1918";1918-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";28;1
+"471";"1918";1918-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";26;0.928571428571429
+"472";"1918";1918-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";28;1.07692307692308
+"473";"1919";1919-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";78;2.78571428571429
+"474";"1919";1919-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";85;1.08974358974359
+"475";"1919";1919-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";73;0.858823529411765
+"476";"1919";1919-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";59;0.808219178082192
+"477";"1920";1920-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";106;1.79661016949153
+"478";"1920";1920-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";85;0.80188679245283
+"479";"1920";1920-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";95;1.11764705882353
+"480";"1920";1920-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";107;1.12631578947368
+"481";"1921";1921-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";120;1.1214953271028
+"482";"1921";1921-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";110;0.916666666666667
+"483";"1921";1921-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";136;1.23636363636364
+"484";"1921";1921-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";132;0.970588235294118
+"485";"1922";1922-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";102;0.772727272727273
+"486";"1922";1922-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";135;1.32352941176471
+"487";"1922";1922-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";119;0.881481481481482
+"488";"1922";1922-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";142;1.19327731092437
+"489";"1923";1923-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";137;0.964788732394366
+"490";"1923";1923-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";116;0.846715328467153
+"491";"1923";1923-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";94;0.810344827586207
+"492";"1923";1923-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";148;1.57446808510638
+"493";"1924";1924-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";121;0.817567567567568
+"494";"1924";1924-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";135;1.11570247933884
+"495";"1924";1924-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";121;0.896296296296296
+"496";"1924";1924-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";114;0.942148760330578
+"497";"1925";1925-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";131;1.14912280701754
+"498";"1925";1925-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";109;0.83206106870229
+"499";"1925";1925-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";123;1.12844036697248
+"500";"1925";1925-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";165;1.34146341463415
+"501";"1926";1926-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";172;1.04242424242424
+"502";"1926";1926-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";257;1.49418604651163
+"503";"1926";1926-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";157;0.610894941634241
+"504";"1926";1926-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";176;1.12101910828025
+"505";"1927";1927-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";176;1
+"506";"1927";1927-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";276;1.56818181818182
+"507";"1927";1927-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";153;0.554347826086957
+"508";"1927";1927-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";270;1.76470588235294
+"509";"1928";1928-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";496;1.83703703703704
+"510";"1928";1928-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";588;1.18548387096774
+"511";"1928";1928-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";498;0.846938775510204
+"512";"1928";1928-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";505;1.0140562248996
+"513";"1929";1929-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";678;1.34257425742574
+"514";"1929";1929-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";806;1.18879056047198
+"515";"1929";1929-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";709;0.879652605459057
+"516";"1929";1929-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";690;0.973201692524683
+"517";"1930";1930-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";643;0.931884057971014
+"518";"1930";1930-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";509;0.791601866251944
+"519";"1930";1930-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";338;0.664047151277014
+"520";"1930";1930-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";323;0.955621301775148
+"521";"1931";1931-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";365;1.13003095975232
+"522";"1931";1931-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";371;1.01643835616438
+"523";"1931";1931-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";221;0.595687331536388
+"524";"1931";1931-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";279;1.26244343891403
+"525";"1932";1932-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";285;1.02150537634409
+"526";"1932";1932-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";375;1.31578947368421
+"527";"1932";1932-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";454;1.21066666666667
+"528";"1932";1932-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";458;1.00881057268722
+"529";"1933";1933-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";569;1.24235807860262
+"530";"1933";1933-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";604;1.06151142355009
+"531";"1933";1933-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";552;0.913907284768212
+"532";"1933";1933-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";379;0.686594202898551
+"533";"1934";1934-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";458;1.20844327176781
+"534";"1934";1934-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";437;0.95414847161572
+"535";"1934";1934-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";352;0.805491990846682
+"536";"1934";1934-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";312;0.886363636363636
+"537";"1935";1935-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";354;1.13461538461538
+"538";"1935";1935-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";264;0.745762711864407
+"539";"1935";1935-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";211;0.799242424242424
+"540";"1935";1935-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";277;1.31279620853081
+"541";"1936";1936-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";281;1.014440433213
+"542";"1936";1936-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";230;0.818505338078292
+"543";"1936";1936-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";223;0.969565217391304
+"544";"1936";1936-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";211;0.946188340807175
+"545";"1937";1937-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";239;1.13270142180095
+"546";"1937";1937-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";237;0.99163179916318
+"547";"1937";1937-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";257;1.08438818565401
+"548";"1937";1937-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";399;1.55252918287938
+"549";"1938";1938-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";745;1.8671679197995
+"550";"1938";1938-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";678;0.91006711409396
+"551";"1938";1938-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";625;0.921828908554572
+"552";"1938";1938-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";554;0.8864
+"553";"1939";1939-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";773;1.39530685920578
+"554";"1939";1939-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";513;0.663648124191462
+"555";"1939";1939-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";712;1.38791423001949
+"556";"1939";1939-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";362;0.508426966292135
+"557";"1940";1940-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";578;1.59668508287293
+"558";"1940";1940-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";449;0.77681660899654
+"559";"1940";1940-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";486;1.08240534521158
+"560";"1940";1940-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";327;0.672839506172839
+"561";"1941";1941-03-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";615;1.88073394495413
+"562";"1941";1941-06-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";406;0.660162601626016
+"563";"1941";1941-09-30;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";378;0.931034482758621
+"564";"1941";1941-12-31;"Milhares de contos de réis (1.000:000$000)";"caixa_autoridades";406;1.07407407407407
+"565";"1942";1942-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";363;0.894088669950739
+"566";"1942";1942-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";362;0.997245179063361
+"567";"1942";1942-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";300;0.828729281767956
+"568";"1942";1942-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";944;3.14666666666667
+"569";"1943";1943-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";702;0.74364406779661
+"570";"1943";1943-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";621;0.884615384615385
+"571";"1943";1943-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";630;1.01449275362319
+"572";"1943";1943-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";678;1.07619047619048
+"573";"1944";1944-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";751;1.10766961651917
+"574";"1944";1944-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";968;1.28894806924101
+"575";"1944";1944-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";856;0.884297520661157
+"576";"1944";1944-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";827;0.966121495327103
+"577";"1945";1945-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";795;0.96130592503023
+"578";"1945";1945-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";964;1.2125786163522
+"579";"1945";1945-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";879;0.911825726141079
+"580";"1945";1945-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";839;0.954493742889647
+"581";"1946";1946-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1500;1.78784266984505
+"582";"1946";1946-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";900;0.6
+"583";"1946";1946-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";800;0.888888888888889
+"584";"1946";1946-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1000;1.25
+"585";"1947";1947-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1200;1.2
+"586";"1947";1947-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1100;0.916666666666667
+"587";"1947";1947-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1000;0.909090909090909
+"588";"1947";1947-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1100;1.1
+"589";"1948";1948-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1200;1.09090909090909
+"590";"1948";1948-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1100;0.916666666666667
+"591";"1948";1948-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1300;1.18181818181818
+"592";"1948";1948-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1200;0.923076923076923
+"593";"1949";1949-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1400;1.16666666666667
+"594";"1949";1949-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1100;0.785714285714286
+"595";"1949";1949-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1100;1
+"596";"1949";1949-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1300;1.18181818181818
+"597";"1950";1950-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1400;1.07692307692308
+"598";"1950";1950-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1100;0.785714285714286
+"599";"1950";1950-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1200;1.09090909090909
+"600";"1950";1950-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1600;1.33333333333333
+"601";"1951";1951-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1900;1.1875
+"602";"1951";1951-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1400;0.736842105263158
+"603";"1951";1951-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1500;1.07142857142857
+"604";"1951";1951-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1700;1.13333333333333
+"605";"1952";1952-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1700;1
+"606";"1952";1952-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1700;1
+"607";"1952";1952-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1600;0.941176470588235
+"608";"1952";1952-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2200;1.375
+"609";"1953";1953-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1300;0.590909090909091
+"610";"1953";1953-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1700;1.30769230769231
+"611";"1953";1953-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1800;1.05882352941176
+"612";"1953";1953-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3000;1.66666666666667
+"613";"1954";1954-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2200;0.733333333333333
+"614";"1954";1954-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";1800;0.818181818181818
+"615";"1954";1954-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2200;1.22222222222222
+"616";"1954";1954-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2900;1.31818181818182
+"617";"1955";1955-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3200;1.10344827586207
+"618";"1955";1955-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2800;0.875
+"619";"1955";1955-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2800;1
+"620";"1955";1955-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";4000;1.42857142857143
+"621";"1956";1956-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2200;0.55
+"622";"1956";1956-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2600;1.18181818181818
+"623";"1956";1956-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2500;0.961538461538462
+"624";"1956";1956-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3100;1.24
+"625";"1957";1957-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3000;0.967741935483871
+"626";"1957";1957-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3000;1
+"627";"1957";1957-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";2900;0.966666666666667
+"628";"1957";1957-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3400;1.17241379310345
+"629";"1958";1958-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3300;0.970588235294118
+"630";"1958";1958-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3800;1.15151515151515
+"631";"1958";1958-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3200;0.842105263157895
+"632";"1958";1958-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";4500;1.40625
+"633";"1959";1959-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";4600;1.02222222222222
+"634";"1959";1959-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";3900;0.847826086956522
+"635";"1959";1959-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";4500;1.15384615384615
+"636";"1959";1959-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";6100;1.35555555555556
+"637";"1960";1960-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";7000;1.14754098360656
+"638";"1960";1960-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";5900;0.842857142857143
+"639";"1960";1960-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";5600;0.949152542372881
+"640";"1960";1960-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";8600;1.53571428571429
+"641";"1961";1961-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";9000;1.04651162790698
+"642";"1961";1961-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";10000;1.11111111111111
+"643";"1961";1961-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";35000;3.5
+"644";"1961";1961-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";18000;0.514285714285714
+"645";"1962";1962-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";18000;1
+"646";"1962";1962-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";14000;0.777777777777778
+"647";"1962";1962-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";22000;1.57142857142857
+"648";"1962";1962-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";31000;1.40909090909091
+"649";"1963";1963-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";37000;1.19354838709677
+"650";"1963";1963-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";30000;0.810810810810811
+"651";"1963";1963-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";39000;1.3
+"652";"1963";1963-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";68000;1.74358974358974
+"653";"1964";1964-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";48000;0.705882352941177
+"654";"1964";1964-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";48000;1
+"655";"1964";1964-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";70000;1.45833333333333
+"656";"1964";1964-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";96000;1.37142857142857
+"657";"1965";1965-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";164000;1.70833333333333
+"658";"1965";1965-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";97000;0.591463414634146
+"659";"1965";1965-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";105000;1.08247422680412
+"660";"1965";1965-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";101000;0.961904761904762
+"661";"1966";1966-03-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";135000;1.33663366336634
+"662";"1966";1966-06-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";104000;0.77037037037037
+"663";"1966";1966-09-30;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";126000;1.21153846153846
+"664";"1966";1966-12-31;"Milhões de cruzeiros (CR$ 1.000)";"caixa_autoridades";99000;0.785714285714286
+"665";"1967";1967-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";191;0.00192929292929293
+"666";"1967";1967-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";70;0.366492146596859
+"667";"1967";1967-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";168;2.4
+"668";"1967";1967-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";140;0.833333333333333
+"669";"1968";1968-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";50;0.357142857142857
+"670";"1968";1968-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";57;1.14
+"671";"1968";1968-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";75;1.31578947368421
+"672";"1968";1968-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";130;1.73333333333333
+"673";"1969";1969-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";129;0.992307692307692
+"674";"1969";1969-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";137;1.06201550387597
+"675";"1969";1969-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";91;0.664233576642336
+"676";"1969";1969-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";187;2.05494505494505
+"677";"1970";1970-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"caixa_autoridades";193;1.03208556149733
+"678";"1970";1970-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";168;0.870466321243523
+"679";"1970";1970-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";187;1.11309523809524
+"680";"1970";1970-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";262;1.40106951871658
+"681";"1971";1971-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";192;0.732824427480916
+"682";"1971";1971-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";253;1.31770833333333
+"683";"1971";1971-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";229;0.905138339920949
+"684";"1971";1971-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";252;1.10043668122271
+"685";"1972";1972-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";124;0.492063492063492
+"686";"1972";1972-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";241;1.94354838709677
+"687";"1972";1972-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";238;0.987551867219917
+"688";"1972";1972-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";332;1.39495798319328
+"689";"1973";1973-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";269;0.810240963855422
+"690";"1973";1973-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";311;1.15613382899628
+"691";"1973";1973-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";307;0.987138263665595
+"692";"1973";1973-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";766;2.49511400651466
+"693";"1974";1974-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";403;0.526109660574413
+"694";"1974";1974-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";531;1.31761786600496
+"695";"1974";1974-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";493;0.928436911487759
+"696";"1974";1974-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1351;2.74036511156187
+"697";"1975";1975-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";677;0.501110288675055
+"698";"1975";1975-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";744;1.09896602658789
+"699";"1975";1975-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1026;1.37903225806452
+"700";"1975";1975-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";939;0.915204678362573
+"701";"1976";1976-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1286;1.36954206602769
+"702";"1976";1976-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1056;0.821150855365474
+"703";"1976";1976-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1058;1.00189393939394
+"704";"1976";1976-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";804;0.75992438563327
+"705";"1977";1977-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1121;1.39427860696517
+"706";"1977";1977-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1236;1.10258697591436
+"707";"1977";1977-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";936;0.757281553398058
+"708";"1977";1977-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1084;1.15811965811966
+"709";"1978";1978-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1164;1.07380073800738
+"710";"1978";1978-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1129;0.969931271477663
+"711";"1978";1978-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1129;1
+"712";"1978";1978-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1565;1.38618246235607
+"713";"1979";1979-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1085;0.693290734824281
+"714";"1979";1979-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1340;1.23502304147465
+"715";"1979";1979-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";2186;1.63134328358209
+"716";"1979";1979-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";3590;1.64226898444648
+"717";"1980";1980-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";5944;1.65571030640669
+"718";"1980";1980-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";4189;0.704744279946164
+"719";"1980";1980-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";5947;1.41967056576749
+"720";"1980";1980-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";6028;1.01362031276274
+"721";"1981";1981-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";7953;1.31934306569343
+"722";"1981";1981-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";6711;0.843832516031686
+"723";"1981";1981-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";15611;2.32618089703472
+"724";"1981";1981-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";2846;0.182307347383255
+"725";"1982";1982-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";28449;9.99613492621223
+"726";"1982";1982-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";16568;0.582375478927203
+"727";"1982";1982-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";15375;0.927993722839208
+"728";"1982";1982-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";18004;1.1709918699187
+"729";"1983";1983-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";18567;1.03127082870473
+"730";"1983";1983-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";43194;2.32638552270157
+"731";"1983";1983-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";27117;0.62779552715655
+"732";"1983";1983-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";26011;0.959213777335251
+"733";"1984";1984-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";93000;3.57541040329092
+"734";"1984";1984-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";57000;0.612903225806452
+"735";"1984";1984-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";53000;0.929824561403509
+"736";"1984";1984-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";246000;4.64150943396226
+"737";"1985";1985-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";142000;0.577235772357724
+"738";"1985";1985-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";152000;1.07042253521127
+"739";"1985";1985-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";694000;4.56578947368421
+"740";"1985";1985-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1277000;1.84005763688761
+"741";"1986";1986-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";877;0.000686765857478465
+"742";"1986";1986-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";932;1.06271379703535
+"743";"1986";1986-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";981;1.05257510729614
+"744";"1986";1986-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";1087;1.10805300713558
+"745";"1987";1987-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";1778;1.63569457221711
+"746";"1987";1987-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";2404;1.35208098987627
+"747";"1987";1987-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";3023;1.25748752079867
+"748";"1987";1987-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";5081;1.68078068144228
+"749";"1988";1988-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";8014;1.57724857311553
+"750";"1988";1988-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";10216;1.27476915398053
+"751";"1988";1988-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";17428;1.70595144870791
+"752";"1988";1988-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"caixa_autoridades";125466;7.19910488868488
+"753";"1989";1989-03-31;"Milhões de cruzados novos (NCz$ 1.000.000)";"caixa_autoridades";173;0.00137885961136882
+"754";"1989";1989-06-30;"Milhões de cruzados novos (NCz$ 1.000.000)";"caixa_autoridades";379;2.19075144508671
+"755";"1989";1989-09-30;"Milhões de cruzados novos (NCz$ 1.000.000)";"caixa_autoridades";879;2.31926121372032
+"756";"1989";1989-12-31;"Milhões de cruzados novos (NCz$ 1.000.000)";"caixa_autoridades";2738;3.11490329920364
+"757";"1990";1990-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";28412;10.3769174579985
+"758";"1990";1990-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";34497;1.21417006898494
+"759";"1990";1990-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";45514;1.3193611038641
+"760";"1990";1990-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";56572;1.24295821066046
+"761";"1991";1991-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";88687;1.56768365976101
+"762";"1991";1991-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";126582;1.42728923066515
+"763";"1991";1991-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";306009;2.41747641844812
+"764";"1991";1991-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";324287;1.05973026937116
+"765";"1992";1992-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";605571;1.86739215571392
+"766";"1992";1992-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1112887;1.83774817486306
+"767";"1992";1992-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";1966054;1.76662500325729
+"768";"1992";1992-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";6039663;3.07197208215034
+"769";"1993";1993-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";7946550;1.31572738412723
+"770";"1993";1993-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"caixa_autoridades";16512101;2.07789556474193
+"771";"1993";1993-09-30;"Milhões de cruzeiros reais (CR$ 1.000.000)";"caixa_autoridades";40668.047;0.00246292382780362
+"772";"1993";1993-12-31;"Milhões de cruzeiros reais (CR$ 1.000.000)";"caixa_autoridades";121977.668;2.99934904668523
+"773";"1994";1994-03-31;"Milhões de cruzeiros reais (CR$ 1.000.000)";"caixa_autoridades";250569.238;2.05422223681141
+"774";"1994";1994-06-30;"Milhões de cruzeiros reais (CR$ 1.000.000)";"caixa_autoridades";703508.036;2.80763928411675
+"775";"1994";1994-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";883.14;0.00125533747279043
+"776";"1994";1994-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1293.735;1.46492628575311
+"777";"1995";1995-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";986.691;0.762668552678872
+"778";"1995";1995-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1054.747;1.06897397462833
+"779";"1995";1995-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1187.231;1.12560737314256
+"780";"1995";1995-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1324.974;1.11602038693397
+"781";"1996";1996-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1209.61;0.912931121667293
+"782";"1996";1996-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1412.638;1.16784583460785
+"783";"1996";1996-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1730.901;1.22529692674273
+"784";"1996";1996-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1757.269;1.01523368465325
+"785";"1997";1997-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2293;1.30486567509015
+"786";"1997";1997-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1878;0.81901439162669
+"787";"1997";1997-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1701;0.905750798722045
+"788";"1997";1997-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2020;1.1875367430923
+"789";"1998";1998-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";1851;0.916336633663366
+"790";"1998";1998-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2152.398;1.16282982171799
+"791";"1998";1998-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2088.301;0.970220656216926
+"792";"1998";1998-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2816.493;1.34870069017828
+"793";"1999";1999-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2649.375;0.940664507243583
+"794";"1999";1999-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2434.531;0.918907666902571
+"795";"1999";1999-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2704.703;1.11097496807393
+"796";"1999";1999-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";3859.941;1.42712194277893
+"797";"2000";2000-03-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";2966;0.768405527442
+"798";"2000";2000-06-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";3105;1.04686446392448
+"799";"2000";2000-09-30;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";3193;1.02834138486312
+"800";"2000";2000-12-31;"Milhões de reais (R$ 1.000.000)";"caixa_autoridades";4039;1.2649545881616
+"801";"1901";1901-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";530.2;0.131270116365437
+"802";"1901";1901-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";487.8;0.920030177291588
+"803";"1901";1901-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";507.7;1.04079540795408
+"804";"1901";1901-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";524.7;1.03348434114635
+"805";"1902";1902-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";533.2;1.01619973318087
+"806";"1902";1902-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";517;0.969617404351088
+"807";"1902";1902-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";516.5;0.999032882011605
+"808";"1902";1902-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";517.4;1.00174249757986
+"809";"1903";1903-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";521.3;1.00753768844221
+"810";"1903";1903-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";509.3;0.976980625359678
+"811";"1903";1903-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";515;1.01119183192617
+"812";"1903";1903-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";513.3;0.996699029126214
+"813";"1904";1904-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";551.6;1.0746152347555
+"814";"1904";1904-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";526.2;0.953952139231327
+"815";"1904";1904-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";511.4;0.971873812238692
+"816";"1904";1904-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";558.9;1.09288228392648
+"817";"1905";1905-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";534.9;0.957058507783145
+"818";"1905";1905-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";461.4;0.862591138530566
+"819";"1905";1905-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";483.9;1.04876462938882
+"820";"1905";1905-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";522.7;1.08018185575532
+"821";"1906";1906-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";526.1;1.00650468720107
+"822";"1906";1906-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";542.3;1.03079262497624
+"823";"1906";1906-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";550.6;1.01530518163378
+"824";"1906";1906-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";602;1.09335270613876
+"825";"1907";1907-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";640.1;1.06328903654485
+"826";"1907";1907-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";615.6;0.961724730510858
+"827";"1907";1907-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";630.6;1.02436647173489
+"828";"1907";1907-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";609.4;0.966381224230891
+"829";"1908";1908-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";562.2;0.92254676731211
+"830";"1908";1908-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";536.5;0.954286730700818
+"831";"1908";1908-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";538.9;1.0044734389562
+"832";"1908";1908-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";578;1.07255520504732
+"833";"1909";1909-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";577;0.998269896193772
+"834";"1909";1909-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";572.2;0.991681109185442
+"835";"1909";1909-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";600.4;1.04928346731912
+"836";"1909";1909-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";674.7;1.12375083277815
+"837";"1910";1910-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";699.2;1.03631243515637
+"838";"1910";1910-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";720.2;1.03003432494279
+"839";"1910";1910-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";702.3;0.975145792835323
+"840";"1910";1910-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";728.6;1.03744838388153
+"841";"1911";1911-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";728.4;0.999725500960747
+"842";"1911";1911-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";705.3;0.96828665568369
+"843";"1911";1911-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";701.3;0.994328654473274
+"844";"1911";1911-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";753.2;1.07400541850848
+"845";"1912";1912-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";758.5;1.00703664365374
+"846";"1912";1912-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";770.1;1.01529334212261
+"847";"1912";1912-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";785.5;1.01999740293468
+"848";"1912";1912-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";812;1.0337364735837
+"849";"1913";1913-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";814.2;1.00270935960591
+"850";"1913";1913-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";779.9;0.957872758535986
+"851";"1913";1913-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";713.4;0.914732658033081
+"852";"1913";1913-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";682.8;0.957106812447435
+"853";"1914";1914-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";672.9;0.985500878734622
+"854";"1914";1914-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";677.1;1.00624164065983
+"855";"1914";1914-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";694.8;1.02614089499335
+"856";"1914";1914-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";668;0.961427748992516
+"857";"1915";1915-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";650;0.973053892215569
+"858";"1915";1915-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";694;1.06769230769231
+"859";"1915";1915-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";708;1.02017291066282
+"860";"1915";1915-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";735;1.03813559322034
+"861";"1916";1916-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";768;1.04489795918367
+"862";"1916";1916-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";766;0.997395833333333
+"863";"1916";1916-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";810;1.05744125326371
+"864";"1916";1916-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";877;1.08271604938272
+"865";"1917";1917-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";862;0.982896237172178
+"866";"1917";1917-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";933;1.08236658932715
+"867";"1917";1917-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";956;1.02465166130761
+"868";"1917";1917-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1002;1.04811715481172
+"869";"1918";1918-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1032;1.02994011976048
+"870";"1918";1918-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1043;1.01065891472868
+"871";"1918";1918-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1156;1.10834132310642
+"872";"1918";1918-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1187;1.02681660899654
+"873";"1919";1919-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1117;0.941027801179444
+"874";"1919";1919-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1150;1.02954341987466
+"875";"1919";1919-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1213;1.05478260869565
+"876";"1919";1919-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1179;0.9719703215169
+"877";"1920";1920-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1163;0.986429177268872
+"878";"1920";1920-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1108;0.952708512467756
+"879";"1920";1920-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1070;0.965703971119134
+"880";"1920";1920-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1009;0.942990654205607
+"881";"1921";1921-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";932;0.923686818632309
+"882";"1921";1921-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1052;1.12875536480687
+"883";"1921";1921-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1198;1.13878326996198
+"884";"1921";1921-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1212;1.01168614357262
+"885";"1922";1922-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1461;1.20544554455446
+"886";"1922";1922-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1428;0.97741273100616
+"887";"1922";1922-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1665;1.16596638655462
+"888";"1922";1922-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1642;0.986186186186186
+"889";"1923";1923-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1644;1.00121802679659
+"890";"1923";1923-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1574;0.957420924574209
+"891";"1923";1923-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1880;1.19440914866582
+"892";"1923";1923-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1930;1.02659574468085
+"893";"1924";1924-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1955;1.01295336787565
+"894";"1924";1924-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2070;1.05882352941176
+"895";"1924";1924-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2322;1.12173913043478
+"896";"1924";1924-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2283;0.983204134366925
+"897";"1925";1925-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2216;0.970652650021901
+"898";"1925";1925-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2124;0.958483754512635
+"899";"1925";1925-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2075;0.976930320150659
+"900";"1925";1925-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2025;0.975903614457831
+"901";"1926";1926-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2053;1.01382716049383
+"902";"1926";1926-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1783;0.868485143692158
+"903";"1926";1926-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1768;0.991587212563096
+"904";"1926";1926-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1943;1.09898190045249
+"905";"1927";1927-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1855;0.9547092125579
+"906";"1927";1927-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1800;0.970350404312669
+"907";"1927";1927-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2032;1.12888888888889
+"908";"1927";1927-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2193;1.07923228346457
+"909";"1928";1928-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2249;1.02553579571363
+"910";"1928";1928-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2182;0.970208981769675
+"911";"1928";1928-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2368;1.0852428964253
+"912";"1928";1928-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2337;0.986908783783784
+"913";"1929";1929-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2262;0.96790757381258
+"914";"1929";1929-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2133;0.942970822281167
+"915";"1929";1929-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2123;0.995311767463666
+"916";"1929";1929-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2126;1.00141309467734
+"917";"1930";1930-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2017;0.948730009407338
+"918";"1930";1930-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1856;0.920178482895389
+"919";"1930";1930-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1814;0.977370689655172
+"920";"1930";1930-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1949;1.07442116868798
+"921";"1931";1931-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1996;1.02411493073371
+"922";"1931";1931-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1944;0.973947895791583
+"923";"1931";1931-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1984;1.02057613168724
+"924";"1931";1931-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2020;1.01814516129032
+"925";"1932";1932-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1890;0.935643564356436
+"926";"1932";1932-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1803;0.953968253968254
+"927";"1932";1932-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";1932;1.07154742096506
+"928";"1932";1932-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2209;1.14337474120083
+"929";"1933";1933-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2107;0.953825260298778
+"930";"1933";1933-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2001;0.94969150450878
+"931";"1933";1933-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2094;1.04647676161919
+"932";"1933";1933-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2215;1.0577841451767
+"933";"1934";1934-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2193;0.990067720090293
+"934";"1934";1934-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2187;0.997264021887825
+"935";"1934";1934-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2270;1.03795153177869
+"936";"1934";1934-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2382;1.04933920704846
+"937";"1935";1935-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2362;0.991603694374475
+"938";"1935";1935-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2465;1.04360711261643
+"939";"1935";1935-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2696;1.09371196754564
+"940";"1935";1935-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2852;1.05786350148368
+"941";"1936";1936-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3081;1.08029453015428
+"942";"1936";1936-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";2934;0.952288218111003
+"943";"1936";1936-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3052;1.04021813224267
+"944";"1936";1936-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3289;1.07765399737877
+"945";"1937";1937-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3218;0.97841289145637
+"946";"1937";1937-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3396;1.05531385954009
+"947";"1937";1937-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3419;1.0067726737338
+"948";"1937";1937-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3486;1.01959637320854
+"949";"1938";1938-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3321;0.952667814113597
+"950";"1938";1938-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3371;1.01505570611262
+"951";"1938";1938-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3527;1.04627706911896
+"952";"1938";1938-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3579;1.01474340799546
+"953";"1939";1939-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3446;0.962838781782621
+"954";"1939";1939-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3626;1.05223447475334
+"955";"1939";1939-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3480;0.959735245449531
+"956";"1939";1939-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3854;1.10747126436782
+"957";"1940";1940-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3689;0.957187337830825
+"958";"1940";1940-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3873;1.04987801572242
+"959";"1940";1940-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";3846;0.993028659953524
+"960";"1940";1940-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";4094;1.06448257930317
+"961";"1941";1941-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";4041;0.987054225696141
+"962";"1941";1941-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";4345;1.0752289037367
+"963";"1941";1941-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";4608;1.06052934407365
+"964";"1941";1941-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_pp";5310;1.15234375
+"965";"1942";1942-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";5817;1.0954802259887
+"966";"1942";1942-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";6316;1.08578304968197
+"967";"1942";1942-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";7312;1.15769474350855
+"968";"1942";1942-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";6130;0.838347921225383
+"969";"1943";1943-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";6278;1.02414355628059
+"970";"1943";1943-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";7205;1.14765848996496
+"971";"1943";1943-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";7951;1.10353920888272
+"972";"1943";1943-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";8542;1.07433027292165
+"973";"1944";1944-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";9171;1.07363615078436
+"974";"1944";1944-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";10298;1.1228873623378
+"975";"1944";1944-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";10943;1.06263352107205
+"976";"1944";1944-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";11662;1.06570410307959
+"977";"1945";1945-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";11977;1.02701080432173
+"978";"1945";1945-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";12173;1.01636469900643
+"979";"1945";1945-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";13404;1.10112544155097
+"980";"1945";1945-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";14321;1.06841241420472
+"981";"1946";1946-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";14200;0.991550869352699
+"982";"1946";1946-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";15100;1.06338028169014
+"983";"1946";1946-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16400;1.08609271523179
+"984";"1946";1946-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16800;1.02439024390244
+"985";"1947";1947-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16900;1.00595238095238
+"986";"1947";1947-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16700;0.988165680473373
+"987";"1947";1947-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16900;1.01197604790419
+"988";"1947";1947-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16800;0.994082840236686
+"989";"1948";1948-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16800;1
+"990";"1948";1948-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16700;0.994047619047619
+"991";"1948";1948-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";16600;0.994011976047904
+"992";"1948";1948-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";17700;1.06626506024096
+"993";"1949";1949-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";17000;0.96045197740113
+"994";"1949";1949-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";17400;1.02352941176471
+"995";"1949";1949-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";18600;1.06896551724138
+"996";"1949";1949-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";19400;1.04301075268817
+"997";"1950";1950-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";19000;0.979381443298969
+"998";"1950";1950-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";20200;1.06315789473684
+"999";"1950";1950-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";23500;1.16336633663366
+"1000";"1950";1950-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";25100;1.06808510638298
+"1001";"1951";1951-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";24900;0.99203187250996
+"1002";"1951";1951-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";25900;1.04016064257028
+"1003";"1951";1951-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";27700;1.06949806949807
+"1004";"1951";1951-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";28400;1.02527075812274
+"1005";"1952";1952-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";27200;0.957746478873239
+"1006";"1952";1952-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";27900;1.02573529411765
+"1007";"1952";1952-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";29800;1.06810035842294
+"1008";"1952";1952-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";31600;1.06040268456376
+"1009";"1953";1953-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";32000;1.0126582278481
+"1010";"1953";1953-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";34200;1.06875
+"1011";"1953";1953-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";35700;1.04385964912281
+"1012";"1953";1953-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";37800;1.05882352941176
+"1013";"1954";1954-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";39000;1.03174603174603
+"1014";"1954";1954-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";40600;1.04102564102564
+"1015";"1954";1954-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";45400;1.11822660098522
+"1016";"1954";1954-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";49000;1.07929515418502
+"1017";"1955";1955-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";48700;0.993877551020408
+"1018";"1955";1955-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";51500;1.05749486652977
+"1019";"1955";1955-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";54300;1.05436893203883
+"1020";"1955";1955-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";57100;1.05156537753223
+"1021";"1956";1956-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";57500;1.00700525394046
+"1022";"1956";1956-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";60700;1.05565217391304
+"1023";"1956";1956-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";63100;1.03953871499176
+"1024";"1956";1956-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";67400;1.06814580031696
+"1025";"1957";1957-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";68200;1.01186943620178
+"1026";"1957";1957-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";70400;1.03225806451613
+"1027";"1957";1957-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";74700;1.06107954545455
+"1028";"1957";1957-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";81300;1.08835341365462
+"1029";"1958";1958-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";81800;1.00615006150061
+"1030";"1958";1958-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";86100;1.05256723716381
+"1031";"1958";1958-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";93000;1.0801393728223
+"1032";"1958";1958-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";99700;1.07204301075269
+"1033";"1959";1959-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";101100;1.01404212637914
+"1034";"1959";1959-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";105500;1.04352126607319
+"1035";"1959";1959-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";114000;1.08056872037915
+"1036";"1959";1959-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";127100;1.11491228070175
+"1037";"1960";1960-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";127700;1.00472069236821
+"1038";"1960";1960-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";134100;1.05011746280345
+"1039";"1960";1960-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";148100;1.10439970171514
+"1040";"1960";1960-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";169300;1.14314652261985
+"1041";"1961";1961-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";179600;1.060838747785
+"1042";"1961";1961-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";188000;1.0467706013363
+"1043";"1961";1961-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";221400;1.17765957446809
+"1044";"1961";1961-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";256200;1.15718157181572
+"1045";"1962";1962-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";253600;0.989851678376269
+"1046";"1962";1962-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";282700;1.1147476340694
+"1047";"1962";1962-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";344200;1.21754510081358
+"1048";"1962";1962-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";396900;1.15310865775712
+"1049";"1963";1963-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";402500;1.01410934744268
+"1050";"1963";1963-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";445500;1.10683229813665
+"1051";"1963";1963-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";585900;1.31515151515152
+"1052";"1963";1963-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";683400;1.16641065028162
+"1053";"1964";1964-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";787000;1.15159496634475
+"1054";"1964";1964-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";859000;1.09148665819568
+"1055";"1964";1964-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";948000;1.10360884749709
+"1056";"1964";1964-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";1155000;1.21835443037975
+"1057";"1965";1965-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";1137000;0.984415584415584
+"1058";"1965";1965-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";1274000;1.12049252418646
+"1059";"1965";1965-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";1459000;1.14521193092622
+"1060";"1965";1965-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";1730000;1.18574366004112
+"1061";"1966";1966-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";1697000;0.980924855491329
+"1062";"1966";1966-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";1876000;1.10548025928108
+"1063";"1966";1966-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";2008000;1.07036247334755
+"1064";"1966";1966-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_pp";2343000;1.16683266932271
+"1065";"1967";1967-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";2229;0.00095134443021767
+"1066";"1967";1967-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";2303;1.03319874383131
+"1067";"1967";1967-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";2537;1.10160660008684
+"1068";"1967";1967-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";2944;1.16042569964525
+"1069";"1968";1968-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";3009;1.02207880434783
+"1070";"1968";1968-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";3221;1.07045530076437
+"1071";"1968";1968-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";3464;1.07544240918969
+"1072";"1968";1968-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";4080;1.17782909930716
+"1073";"1969";1969-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";4207;1.03112745098039
+"1074";"1969";1969-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";4174;0.992155930591871
+"1075";"1969";1969-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";4640;1.11164350742693
+"1076";"1969";1969-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";5389;1.1614224137931
+"1077";"1970";1970-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_pp";5215;0.967712005938022
+"1078";"1970";1970-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";5258;1.00824544582934
+"1079";"1970";1970-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";5596;1.06428299733739
+"1080";"1970";1970-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";6719;1.20067905646891
+"1081";"1971";1971-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";6382;0.949843726745051
+"1082";"1971";1971-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";6273;0.982920714509558
+"1083";"1971";1971-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";6676;1.06424358361231
+"1084";"1971";1971-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";8555;1.28145596165368
+"1085";"1972";1972-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";8509;0.994623027469316
+"1086";"1972";1972-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";8748;1.02808790692208
+"1087";"1972";1972-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";9415;1.07624599908551
+"1088";"1972";1972-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";11547;1.22644715878917
+"1089";"1973";1973-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";11237;0.973153199965359
+"1090";"1973";1973-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";12846;1.14318768354543
+"1091";"1973";1973-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";13887;1.08103689864549
+"1092";"1973";1973-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";16427;1.18290487506301
+"1093";"1974";1974-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";16317;0.993303707311134
+"1094";"1974";1974-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";17192;1.05362505362505
+"1095";"1974";1974-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";17109;0.995172173103769
+"1096";"1974";1974-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";20807;1.21614355017827
+"1097";"1975";1975-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";19831;0.953092709184409
+"1098";"1975";1975-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";21655;1.09197720740255
+"1099";"1975";1975-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";23655;1.09235742322789
+"1100";"1975";1975-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";31031;1.31181568378778
+"1101";"1976";1976-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";28293;0.911765653701138
+"1102";"1976";1976-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";32212;1.13851482698901
+"1103";"1976";1976-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";35587;1.10477461815472
+"1104";"1976";1976-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";46422;1.3044651136651
+"1105";"1977";1977-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";41001;0.883223471629831
+"1106";"1977";1977-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";45259;1.1038511255823
+"1107";"1977";1977-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";51191;1.13106785390751
+"1108";"1977";1977-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";65205;1.27375905920963
+"1109";"1978";1978-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";60915;0.934207499424891
+"1110";"1978";1978-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";65798;1.08016087991464
+"1111";"1978";1978-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";75654;1.14979178698441
+"1112";"1978";1978-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";94073;1.24346366352077
+"1113";"1979";1979-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";91065;0.968024831779575
+"1114";"1979";1979-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";102470;1.12524021303465
+"1115";"1979";1979-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";117565;1.14731140821704
+"1116";"1979";1979-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";167315;1.42317016118743
+"1117";"1980";1980-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";145577;0.870077398918208
+"1118";"1980";1980-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";169580;1.16488181512189
+"1119";"1980";1980-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";191877;1.1314836655266
+"1120";"1980";1980-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";290711;1.51509039645189
+"1121";"1981";1981-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";243446;0.837415852857305
+"1122";"1981";1981-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";279796;1.14931442701872
+"1123";"1981";1981-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";330047;1.17959870762984
+"1124";"1981";1981-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";523169;1.58513484443125
+"1125";"1982";1982-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";475049;0.908022073173296
+"1126";"1982";1982-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";578902;1.21861534283832
+"1127";"1982";1982-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";658737;1.13790762512481
+"1128";"1982";1982-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";1010164;1.53348604981958
+"1129";"1983";1983-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";963958;0.954258912414222
+"1130";"1983";1983-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";1125136;1.16720438027383
+"1131";"1983";1983-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";1338610;1.18973173020861
+"1132";"1983";1983-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";1881033;1.40521361711029
+"1133";"1984";1984-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";1833000;0.974464562822662
+"1134";"1984";1984-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";2434000;1.3278777959629
+"1135";"1984";1984-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";3619000;1.48685291700904
+"1136";"1984";1984-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";6247000;1.7261674495717
+"1137";"1985";1985-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";6592000;1.05522650872419
+"1138";"1985";1985-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";9247000;1.4027609223301
+"1139";"1985";1985-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";12322000;1.33254028333514
+"1140";"1985";1985-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";23794000;1.93101769193313
+"1141";"1986";1986-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";29633;0.00124539799949567
+"1142";"1986";1986-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";46174;1.55819525528971
+"1143";"1986";1986-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";55918;1.21102785117166
+"1144";"1986";1986-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";84046;1.50302228262813
+"1145";"1987";1987-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";64819;0.771232420341242
+"1146";"1987";1987-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";88218;1.36098983322791
+"1147";"1987";1987-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";125730;1.42521934299123
+"1148";"1987";1987-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";248331;1.97511333810546
+"1149";"1988";1988-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";287299;1.15691959521767
+"1150";"1988";1988-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";392775;1.36712971503556
+"1151";"1988";1988-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";717000;1.82547259881612
+"1152";"1988";1988-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_pp";2090000;2.91492329149233
+"1153";"1989";1989-03-31;"Milhões de cruzados novos (NCz$ 1.000.000)";"papel_moeda_pp";2703;0.0012933014354067
+"1154";"1989";1989-06-30;"Milhões de cruzados novos (NCz$ 1.000.000)";"papel_moeda_pp";4860;1.79800221975583
+"1155";"1989";1989-09-30;"Milhões de cruzados novos (NCz$ 1.000.000)";"papel_moeda_pp";9541;1.96316872427984
+"1156";"1989";1989-12-31;"Milhões de cruzados novos (NCz$ 1.000.000)";"papel_moeda_pp";40362;4.23037417461482
+"1157";"1990";1990-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";226646;5.61533125216788
+"1158";"1990";1990-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";437420;1.9299700855078
+"1159";"1990";1990-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";541358;1.23761602121531
+"1160";"1990";1990-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";979722;1.80974881686426
+"1161";"1991";1991-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";1186227;1.21077918021643
+"1162";"1991";1991-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";1412763;1.19097187974983
+"1163";"1991";1991-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";1661938;1.17637423969909
+"1164";"1991";1991-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";3612664;2.17376580835145
+"1165";"1992";1992-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";4121659;1.14089187369764
+"1166";"1992";1992-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";7584823;1.84023544888114
+"1167";"1992";1992-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";13815296;1.82143947195604
+"1168";"1992";1992-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";36889000;2.67015632527888
+"1169";"1993";1993-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";50269000;1.36270975087424
+"1170";"1993";1993-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_pp";107844000;2.14533808112356
+"1171";"1993";1993-09-30;"Milhões de cruzeiros reais (CR$ 1.000.000)";"papel_moeda_pp";235652;0.00218511924631876
+"1172";"1993";1993-12-31;"Milhões de cruzeiros reais (CR$ 1.000.000)";"papel_moeda_pp";934781;3.96678576884559
+"1173";"1994";1994-03-31;"Milhões de cruzeiros reais (CR$ 1.000.000)";"papel_moeda_pp";1979760;2.11788643543247
+"1174";"1994";1994-06-30;"Milhões de cruzeiros reais (CR$ 1.000.000)";"papel_moeda_pp";5551166.5;2.80395931830121
+"1175";"1994";1994-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";5468.018;0.000985021436485467
+"1176";"1994";1994-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";8699.882;1.59104852983293
+"1177";"1995";1995-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";6808.756;0.782626247114616
+"1178";"1995";1995-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";7253.28;1.06528710971578
+"1179";"1995";1995-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";8017.805;1.10540403789734
+"1180";"1995";1995-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";12367.123;1.54245744315308
+"1181";"1996";1996-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";9787.965;0.791450444860943
+"1182";"1996";1996-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";10538.815;1.076711553423
+"1183";"1996";1996-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";10963.884;1.04033366180164
+"1184";"1996";1996-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";15316.68;1.39701222668901
+"1185";"1997";1997-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";12828.628;0.837559314420619
+"1186";"1997";1997-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";13075.165;1.01921772148978
+"1187";"1997";1997-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";13262.614;1.01433626267814
+"1188";"1997";1997-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";18078.732;1.3631348993494
+"1189";"1998";1998-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";14359.828;0.794293980352162
+"1190";"1998";1998-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";15086.729;1.05062045311406
+"1191";"1998";1998-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";16148.881;1.07040306749064
+"1192";"1998";1998-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";21185.297;1.31187399300298
+"1193";"1999";1999-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";17998.122;0.849557218857966
+"1194";"1999";1999-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";17177.92;0.954428467592341
+"1195";"1999";1999-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";17540.931;1.02113241882603
+"1196";"1999";1999-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";25951;1.47945396968952
+"1197";"2000";2000-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";19736;0.760510192285461
+"1198";"2000";2000-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";20095;1.01819010944467
+"1199";"2000";2000-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";21578;1.07379945260015
+"1200";"2000";2000-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_pp";28568;1.32394105107053
+"1201";"1901";1901-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";694.8;0.0243209185102212
+"1202";"1901";1901-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";690;0.993091537132988
+"1203";"1901";1901-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";685.2;0.99304347826087
+"1204";"1901";1901-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";680.5;0.993140688849971
+"1205";"1902";1902-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";679.2;0.99808963997061
+"1206";"1902";1902-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";678;0.998233215547703
+"1207";"1902";1902-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";676.8;0.998230088495575
+"1208";"1902";1902-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";675.5;0.998079196217494
+"1209";"1903";1903-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";675.4;0.999851961509993
+"1210";"1903";1903-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";675.3;0.999851939591353
+"1211";"1903";1903-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";675.1;0.999703835332445
+"1212";"1903";1903-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";675;0.999851873796475
+"1213";"1904";1904-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";674.7;0.999555555555556
+"1214";"1904";1904-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";674.7;1
+"1215";"1904";1904-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";674;0.998962501852675
+"1216";"1904";1904-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";673.7;0.999554896142433
+"1217";"1905";1905-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";672.7;0.998515659789224
+"1218";"1905";1905-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";671.6;0.998364798572915
+"1219";"1905";1905-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";670.6;0.998511018463371
+"1220";"1905";1905-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";669.5;0.998359677900388
+"1221";"1906";1906-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";668.3;0.998207617625093
+"1222";"1906";1906-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";667.1;0.998204399221906
+"1223";"1906";1906-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";666;0.998351071803328
+"1224";"1906";1906-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";702.2;1.05435435435435
+"1225";"1907";1907-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";743.3;1.05853033323839
+"1226";"1907";1907-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";746.4;1.00417059060944
+"1227";"1907";1907-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";747.4;1.0013397642015
+"1228";"1907";1907-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";743.6;0.994915707786995
+"1229";"1908";1908-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";739.2;0.994082840236686
+"1230";"1908";1908-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";733.8;0.992694805194805
+"1231";"1908";1908-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";729.1;0.993594985009539
+"1232";"1908";1908-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";724.1;0.993142230146756
+"1233";"1909";1909-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";719;0.992956773926253
+"1234";"1909";1909-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";724.5;1.0076495132128
+"1235";"1909";1909-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";732.5;1.01104209799862
+"1236";"1909";1909-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";854.7;1.16682593856655
+"1237";"1910";1910-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";849.8;0.994266994266994
+"1238";"1910";1910-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";944.7;1.11167333490233
+"1239";"1910";1910-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";942.8;0.997988779506722
+"1240";"1910";1910-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";925;0.981120067882902
+"1241";"1911";1911-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";894.5;0.967027027027027
+"1242";"1911";1911-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";915.2;1.02314141978759
+"1243";"1911";1911-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";952.5;1.04075611888112
+"1244";"1911";1911-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";991;1.04041994750656
+"1245";"1912";1912-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";982.8;0.991725529767911
+"1246";"1912";1912-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";973.3;0.99033374033374
+"1247";"1912";1912-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";982.6;1.00955512175075
+"1248";"1912";1912-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1013;1.03093832688785
+"1249";"1913";1913-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1014;1.00098716683119
+"1250";"1913";1913-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";978.5;0.964990138067061
+"1251";"1913";1913-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";919.7;0.939908022483393
+"1252";"1913";1913-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";896.8;0.975100576274872
+"1253";"1914";1914-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";900.4;1.00401427297056
+"1254";"1914";1914-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";918.1;1.01965792980897
+"1255";"1914";1914-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";941.8;1.02581418146171
+"1256";"1914";1914-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";980;1.04056062858356
+"1257";"1915";1915-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";997;1.01734693877551
+"1258";"1915";1915-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1011;1.01404212637914
+"1259";"1915";1915-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1039;1.02769535113749
+"1260";"1915";1915-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1076;1.03561116458133
+"1261";"1916";1916-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1112;1.03345724907063
+"1262";"1916";1916-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1147;1.03147482014388
+"1263";"1916";1916-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1182;1.0305143853531
+"1264";"1916";1916-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1217;1.02961082910321
+"1265";"1917";1917-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1189;0.976992604765818
+"1266";"1917";1917-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1256;1.05634987384357
+"1267";"1917";1917-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1323;1.05334394904459
+"1268";"1917";1917-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1389;1.04988662131519
+"1269";"1918";1918-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1462;1.05255579553636
+"1270";"1918";1918-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1534;1.04924760601915
+"1271";"1918";1918-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1607;1.04758800521512
+"1272";"1918";1918-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1679;1.04480398257623
+"1273";"1919";1919-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1691;1.00714711137582
+"1274";"1919";1919-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1704;1.00768775872265
+"1275";"1919";1919-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1717;1.00762910798122
+"1276";"1919";1919-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1750;1.01921956901573
+"1277";"1920";1920-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1775;1.01428571428571
+"1278";"1920";1920-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1799;1.01352112676056
+"1279";"1920";1920-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1824;1.01389660922735
+"1280";"1920";1920-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1848;1.01315789473684
+"1281";"1921";1921-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1889;1.02218614718615
+"1282";"1921";1921-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";1950;1.03229221810482
+"1283";"1921";1921-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2010;1.03076923076923
+"1284";"1921";1921-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2071;1.03034825870647
+"1285";"1922";1922-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2140;1.03331723804925
+"1286";"1922";1922-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2209;1.03224299065421
+"1287";"1922";1922-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2278;1.0312358533273
+"1288";"1922";1922-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2347;1.03028972783143
+"1289";"1923";1923-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2323;0.989774179804005
+"1290";"1923";1923-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2299;0.989668532070598
+"1291";"1923";1923-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2454;1.06742061765985
+"1292";"1923";1923-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2639;1.07538712306438
+"1293";"1924";1924-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2624;0.994316028798787
+"1294";"1924";1924-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2658;1.01295731707317
+"1295";"1924";1924-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2950;1.10985703536494
+"1296";"1924";1924-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2971;1.0071186440678
+"1297";"1925";1925-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2880;0.969370582295523
+"1298";"1925";1925-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2768;0.961111111111111
+"1299";"1925";1925-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2738;0.989161849710983
+"1300";"1925";1925-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2707;0.988677867056245
+"1301";"1926";1926-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2673;0.987439970446989
+"1302";"1926";1926-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2638;0.986906098017209
+"1303";"1926";1926-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2604;0.987111448066717
+"1304";"1926";1926-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2569;0.986559139784946
+"1305";"1927";1927-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2569;1
+"1306";"1927";1927-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2579;1.00389256520047
+"1307";"1927";1927-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2656;1.02985653354013
+"1308";"1927";1927-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3012;1.13403614457831
+"1309";"1928";1928-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3189;1.05876494023904
+"1310";"1928";1928-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3323;1.0420194418313
+"1311";"1928";1928-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3346;1.0069214565152
+"1312";"1928";1928-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3382;1.01075911536163
+"1313";"1929";1929-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3398;1.00473092844471
+"1314";"1929";1929-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3399;1.00029429075927
+"1315";"1929";1929-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3403;1.0011768167108
+"1316";"1929";1929-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3395;0.997649133117837
+"1317";"1930";1930-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3194;0.94079528718704
+"1318";"1930";1930-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2883;0.902629931120852
+"1319";"1930";1930-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2676;0.928199791883455
+"1320";"1930";1930-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2845;1.06315396113602
+"1321";"1931";1931-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2842;0.998945518453427
+"1322";"1931";1931-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2842;1
+"1323";"1931";1931-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2842;1
+"1324";"1931";1931-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2945;1.03624208304011
+"1325";"1932";1932-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2902;0.985398981324278
+"1326";"1932";1932-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";2842;0.979324603721571
+"1327";"1932";1932-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3222;1.13370865587614
+"1328";"1932";1932-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3238;1.00496585971446
+"1329";"1933";1933-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3178;0.981470043236566
+"1330";"1933";1933-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3100;0.975456261799874
+"1331";"1933";1933-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3080;0.993548387096774
+"1332";"1933";1933-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3037;0.986038961038961
+"1333";"1934";1934-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3119;1.02700032927231
+"1334";"1934";1934-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3092;0.991343379288233
+"1335";"1934";1934-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3068;0.992238033635188
+"1336";"1934";1934-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3157;1.02900912646675
+"1337";"1935";1935-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3136;0.993348115299335
+"1338";"1935";1935-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3178;1.01339285714286
+"1339";"1935";1935-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3372;1.06104468219006
+"1340";"1935";1935-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3612;1.0711743772242
+"1341";"1936";1936-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3854;1.06699889258029
+"1342";"1936";1936-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3679;0.954592631032693
+"1343";"1936";1936-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";3800;1.03288937211199
+"1344";"1936";1936-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4050;1.06578947368421
+"1345";"1937";1937-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4030;0.995061728395062
+"1346";"1937";1937-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4267;1.05880893300248
+"1347";"1937";1937-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4237;0.992969299273494
+"1348";"1937";1937-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4550;1.07387302336559
+"1349";"1938";1938-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4718;1.03692307692308
+"1350";"1938";1938-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4817;1.020983467571
+"1351";"1938";1938-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4816;0.999792401909902
+"1352";"1938";1938-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4825;1.00186877076412
+"1353";"1939";1939-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4808;0.996476683937824
+"1354";"1939";1939-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4804;0.999168053244592
+"1355";"1939";1939-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4871;1.0139467110741
+"1356";"1939";1939-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4971;1.02052966536645
+"1357";"1940";1940-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";4965;0.9987929993965
+"1358";"1940";1940-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";5053;1.01772406847936
+"1359";"1940";1940-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";5022;0.993865030674847
+"1360";"1940";1940-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";5185;1.03245718837117
+"1361";"1941";1941-03-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";5393;1.04011571841852
+"1362";"1941";1941-06-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";5588;1.03615798257
+"1363";"1941";1941-09-30;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";5884;1.05297065139585
+"1364";"1941";1941-12-31;"Milhares de contos de réis (1.000:000$000)";"papel_moeda_emitido";6647;1.12967369136642
+"1365";"1942";1942-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";7115;1.07040770272303
+"1366";"1942";1942-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";7792;1.09515108924807
+"1367";"1942";1942-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";8518;1.09317248459959
+"1368";"1942";1942-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";8238;0.967128433904673
+"1369";"1943";1943-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";8234;0.999514445253702
+"1370";"1943";1943-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";9342;1.13456400291474
+"1371";"1943";1943-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";10090;1.08006850781417
+"1372";"1943";1943-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";10981;1.08830525272547
+"1373";"1944";1944-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";11577;1.05427556688826
+"1374";"1944";1944-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";13336;1.15193918977283
+"1375";"1944";1944-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";13820;1.03629274145171
+"1376";"1944";1944-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";14462;1.04645441389291
+"1377";"1945";1945-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";14722;1.01797814963352
+"1378";"1945";1945-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";15438;1.04863469637278
+"1379";"1945";1945-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";16525;1.0704106749579
+"1380";"1945";1945-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";17535;1.06111951588502
+"1381";"1946";1946-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";17800;1.0151126318791
+"1382";"1946";1946-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";18500;1.03932584269663
+"1383";"1946";1946-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";19700;1.06486486486486
+"1384";"1946";1946-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";20500;1.04060913705584
+"1385";"1947";1947-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";20400;0.995121951219512
+"1386";"1947";1947-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";20300;0.995098039215686
+"1387";"1947";1947-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";20300;1
+"1388";"1947";1947-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";20400;1.00492610837438
+"1389";"1948";1948-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";20400;1
+"1390";"1948";1948-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";20400;1
+"1391";"1948";1948-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";20400;1
+"1392";"1948";1948-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";21700;1.06372549019608
+"1393";"1949";1949-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";21200;0.976958525345622
+"1394";"1949";1949-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";21600;1.0188679245283
+"1395";"1949";1949-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";22700;1.05092592592593
+"1396";"1949";1949-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";24000;1.05726872246696
+"1397";"1950";1950-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";23500;0.979166666666667
+"1398";"1950";1950-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";24800;1.05531914893617
+"1399";"1950";1950-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";28700;1.15725806451613
+"1400";"1950";1950-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";31200;1.08710801393728
+"1401";"1951";1951-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";31200;1
+"1402";"1951";1951-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";32000;1.02564102564103
+"1403";"1951";1951-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";33800;1.05625
+"1404";"1951";1951-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";35300;1.04437869822485
+"1405";"1952";1952-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";33700;0.954674220963173
+"1406";"1952";1952-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";34600;1.02670623145401
+"1407";"1952";1952-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";36500;1.05491329479769
+"1408";"1952";1952-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";39300;1.07671232876712
+"1409";"1953";1953-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";38400;0.977099236641221
+"1410";"1953";1953-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";41500;1.08072916666667
+"1411";"1953";1953-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";43100;1.03855421686747
+"1412";"1953";1953-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";47000;1.09048723897912
+"1413";"1954";1954-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";46900;0.997872340425532
+"1414";"1954";1954-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";48700;1.03837953091684
+"1415";"1954";1954-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";54100;1.11088295687885
+"1416";"1954";1954-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";59000;1.090573012939
+"1417";"1955";1955-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";58400;0.989830508474576
+"1418";"1955";1955-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";61700;1.05650684931507
+"1419";"1955";1955-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";64700;1.04862236628849
+"1420";"1955";1955-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";69300;1.07109737248841
+"1421";"1956";1956-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";67500;0.974025974025974
+"1422";"1956";1956-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";73000;1.08148148148148
+"1423";"1956";1956-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";74400;1.01917808219178
+"1424";"1956";1956-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";80800;1.08602150537634
+"1425";"1957";1957-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";80200;0.992574257425743
+"1426";"1957";1957-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";83300;1.03865336658354
+"1427";"1957";1957-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";87600;1.0516206482593
+"1428";"1957";1957-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";96600;1.1027397260274
+"1429";"1958";1958-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";96600;1
+"1430";"1958";1958-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";103400;1.0703933747412
+"1431";"1958";1958-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";109400;1.05802707930368
+"1432";"1958";1958-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";119800;1.09506398537477
+"1433";"1959";1959-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";121000;1.01001669449082
+"1434";"1959";1959-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";125300;1.03553719008264
+"1435";"1959";1959-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";135400;1.0806065442937
+"1436";"1959";1959-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";154600;1.14180206794682
+"1437";"1960";1960-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";154600;1
+"1438";"1960";1960-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";163300;1.05627425614489
+"1439";"1960";1960-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";177000;1.08389467238212
+"1440";"1960";1960-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";206100;1.16440677966102
+"1441";"1961";1961-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";215000;1.04318292091218
+"1442";"1961";1961-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";229000;1.06511627906977
+"1443";"1961";1961-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";289000;1.26200873362445
+"1444";"1961";1961-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";314000;1.08650519031142
+"1445";"1962";1962-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";310000;0.987261146496815
+"1446";"1962";1962-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";344000;1.10967741935484
+"1447";"1962";1962-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";414000;1.20348837209302
+"1448";"1962";1962-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";509000;1.22946859903382
+"1449";"1963";1963-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";499000;0.980353634577603
+"1450";"1963";1963-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";549000;1.1002004008016
+"1451";"1963";1963-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";714000;1.30054644808743
+"1452";"1963";1963-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";889000;1.24509803921569
+"1453";"1964";1964-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";964000;1.08436445444319
+"1454";"1964";1964-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";1064000;1.10373443983402
+"1455";"1964";1964-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";1179000;1.10808270676692
+"1456";"1964";1964-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";1484000;1.25869380831213
+"1457";"1965";1965-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";1504000;1.01347708894879
+"1458";"1965";1965-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";1619000;1.07646276595745
+"1459";"1965";1965-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";1805000;1.11488573193329
+"1460";"1965";1965-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";2175000;1.20498614958449
+"1461";"1966";1966-03-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";2123000;0.976091954022989
+"1462";"1966";1966-06-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";2344000;1.1040979745643
+"1463";"1966";1966-09-30;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";2482000;1.05887372013652
+"1464";"1966";1966-12-31;"Milhões de cruzeiros (CR$ 1.000)";"papel_moeda_emitido";2840000;1.14423851732474
+"1465";"1967";1967-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";2788;0.00098169014084507
+"1466";"1967";1967-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";2840;1.01865136298422
+"1467";"1967";1967-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";3138;1.10492957746479
+"1468";"1967";1967-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";3598;1.1465901848311
+"1469";"1968";1968-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";3543;0.984713729849917
+"1470";"1968";1968-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";3845;1.08523849844764
+"1471";"1968";1968-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";4089;1.06345903771131
+"1472";"1968";1968-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";5100;1.2472487160675
+"1473";"1969";1969-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";4900;0.96078431372549
+"1474";"1969";1969-06-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";5100;1.04081632653061
+"1475";"1969";1969-09-30;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";5300;1.03921568627451
+"1476";"1969";1969-12-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";6400;1.20754716981132
+"1477";"1970";1970-03-31;"Milhões de cruzeiros novos (NCr$ 1.000.000)";"papel_moeda_emitido";6000;0.9375
+"1478";"1970";1970-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";6300;1.05
+"1479";"1970";1970-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";6600;1.04761904761905
+"1480";"1970";1970-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";7900;1.1969696969697
+"1481";"1971";1971-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";7400;0.936708860759494
+"1482";"1971";1971-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";7700;1.04054054054054
+"1483";"1971";1971-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";8000;1.03896103896104
+"1484";"1971";1971-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";9750;1.21875
+"1485";"1972";1972-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";9450;0.969230769230769
+"1486";"1972";1972-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";9950;1.05291005291005
+"1487";"1972";1972-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";10550;1.06030150753769
+"1488";"1972";1972-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";13050;1.23696682464455
+"1489";"1973";1973-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";12550;0.961685823754789
+"1490";"1973";1973-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";14350;1.14342629482072
+"1491";"1973";1973-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";15450;1.07665505226481
+"1492";"1973";1973-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";19150;1.23948220064725
+"1493";"1974";1974-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";18150;0.947780678851175
+"1494";"1974";1974-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";19350;1.06611570247934
+"1495";"1974";1974-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";19850;1.02583979328165
+"1496";"1974";1974-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";24550;1.2367758186398
+"1497";"1975";1975-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";23750;0.967413441955194
+"1498";"1975";1975-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";25350;1.06736842105263
+"1499";"1975";1975-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";27450;1.08284023668639
+"1500";"1975";1975-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";35050;1.27686703096539
+"1501";"1976";1976-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";33050;0.942938659058488
+"1502";"1976";1976-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";37050;1.12102874432678
+"1503";"1976";1976-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";40750;1.09986504723347
+"1504";"1976";1976-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";51050;1.25276073619632
+"1505";"1977";1977-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";47050;0.921645445641528
+"1506";"1977";1977-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";52050;1.10626992561105
+"1507";"1977";1977-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";57050;1.09606147934678
+"1508";"1977";1977-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";71050;1.24539877300613
+"1509";"1978";1978-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";67550;0.950738916256158
+"1510";"1978";1978-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";73050;1.08142116950407
+"1511";"1978";1978-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";83550;1.14373716632444
+"1512";"1978";1978-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";103309;1.23649311789348
+"1513";"1979";1979-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";100309;0.970960903696677
+"1514";"1979";1979-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";113309;1.12959953742934
+"1515";"1979";1979-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";130809;1.15444492493977
+"1516";"1979";1979-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";187309;1.43192746676452
+"1517";"1980";1980-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";173809;0.927926581210727
+"1518";"1980";1980-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";200809;1.15534293391021
+"1519";"1980";1980-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";224309;1.1170266272926
+"1520";"1980";1980-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";326309;1.45472985925665
+"1521";"1981";1981-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";285309;0.874352224425315
+"1522";"1981";1981-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";328309;1.15071378750758
+"1523";"1981";1981-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";392309;1.19493830507236
+"1524";"1981";1981-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";577309;1.4715670555608
+"1525";"1982";1982-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";570309;0.987874777632083
+"1526";"1982";1982-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";680309;1.19287789601777
+"1527";"1982";1982-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";772309;1.1352326663325
+"1528";"1982";1982-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";1112309;1.44023829840129
+"1529";"1983";1983-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";1087309;0.977524231126423
+"1530";"1983";1983-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";1347309;1.23912245736952
+"1531";"1983";1983-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";1517309;1.12617743962224
+"1532";"1983";1983-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";2047309;1.34930261403577
+"1533";"1984";1984-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";2152000;1.05113590571819
+"1534";"1984";1984-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";2777000;1.29042750929368
+"1535";"1984";1984-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";4037000;1.4537270435722
+"1536";"1984";1984-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";7153000;1.77186029229626
+"1537";"1985";1985-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";7453000;1.04194044456871
+"1538";"1985";1985-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";10433000;1.39983899101033
+"1539";"1985";1985-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";15163000;1.45336911722419
+"1540";"1985";1985-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";28113000;1.85405262810789
+"1541";"1986";1986-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";37291;0.00132646818197987
+"1542";"1986";1986-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";53251;1.42798530476522
+"1543";"1986";1986-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";63452;1.19156447766239
+"1544";"1986";1986-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";92610;1.45952846245981
+"1545";"1987";1987-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";83750;0.904329985962639
+"1546";"1987";1987-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";104116;1.24317611940299
+"1547";"1987";1987-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";147555;1.41721733451151
+"1548";"1987";1987-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";271615;1.84077123784352
+"1549";"1988";1988-03-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";324145;1.19339874454651
+"1550";"1988";1988-06-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";459655;1.41805364883
+"1551";"1988";1988-09-30;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";802428;1.74571798414028
+"1552";"1988";1988-12-31;"Milhões de cruzados (Cz$ 1.000.000)";"papel_moeda_emitido";2284466;2.84694203093611
+"1553";"1989";1989-03-31;"Milhões de cruzados novos (NCz$ 1.000.000)";"papel_moeda_emitido";3055;0.00133729282904626
+"1554";"1989";1989-06-30;"Milhões de cruzados novos (NCz$ 1.000.000)";"papel_moeda_emitido";5455;1.78559738134206
+"1555";"1989";1989-09-30;"Milhões de cruzados novos (NCz$ 1.000.000)";"papel_moeda_emitido";10778;1.97580201649863
+"1556";"1989";1989-12-31;"Milhões de cruzados novos (NCz$ 1.000.000)";"papel_moeda_emitido";43926;4.07552421599555
+"1557";"1990";1990-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";259493;5.90750352866184
+"1558";"1990";1990-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";477415;1.83979914679779
+"1559";"1990";1990-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";594799;1.24587413466271
+"1560";"1990";1990-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";1044649;1.75630591174498
+"1561";"1991";1991-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";1288906;1.23381729174105
+"1562";"1991";1991-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";1553950;1.20563485622691
+"1563";"1991";1991-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";1998351;1.28598153093729
+"1564";"1991";1991-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";3974585;1.98893237474298
+"1565";"1992";1992-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";4791726;1.20559152716573
+"1566";"1992";1992-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";8799261;1.83634477430471
+"1567";"1992";1992-09-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";15970933;1.81503117136769
+"1568";"1992";1992-12-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";43211163;2.70561294070922
+"1569";"1993";1993-03-31;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";58676266;1.35789601404619
+"1570";"1993";1993-06-30;"Milhões de cruzeiros (Cr$ 1.000.000)";"papel_moeda_emitido";125300493;2.13545444422111
+"1571";"1993";1993-09-30;"Milhões de cruzeiros reais (CR$ 1.000.000)";"papel_moeda_emitido";278758.047;0.00222471628264064
+"1572";"1993";1993-12-31;"Milhões de cruzeiros reais (CR$ 1.000.000)";"papel_moeda_emitido";1062527.668;3.81164841494244
+"1573";"1994";1994-03-31;"Milhões de cruzeiros reais (CR$ 1.000.000)";"papel_moeda_emitido";2243861.238;2.11181440782961
+"1574";"1994";1994-06-30;"Milhões de cruzeiros reais (CR$ 1.000.000)";"papel_moeda_emitido";6283173.536;2.80016136006713
+"1575";"1994";1994-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";6392.158;0.0010173454486615
+"1576";"1994";1994-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";10045.617;1.57155330015309
+"1577";"1995";1995-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";7852.447;0.781678915292112
+"1578";"1995";1995-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";8370.027;1.06591321151228
+"1579";"1995";1995-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";9280.036;1.10872234940222
+"1580";"1995";1995-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";13770.097;1.48384090320339
+"1581";"1996";1996-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";11080.575;0.804683874049689
+"1582";"1996";1996-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";12043.453;1.08689783698048
+"1583";"1996";1996-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";12829.785;1.06529124163975
+"1584";"1996";1996-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";17187.949;1.33969111719331
+"1585";"1997";1997-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";15304.628;0.890427822423723
+"1586";"1997";1997-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";15130.165;0.988600637663326
+"1587";"1997";1997-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";15132.614;1.00016186208148
+"1588";"1997";1997-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";20250.732;1.3382177064716
+"1589";"1998";1998-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";16367.828;0.808258585418048
+"1590";"1998";1998-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";17412.127;1.06380192900365
+"1591";"1998";1998-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";18405.182;1.05703237749185
+"1592";"1998";1998-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";24166.79;1.31304270721148
+"1593";"1999";1999-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";20819.497;0.861492031006187
+"1594";"1999";1999-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";19785.451;0.950332805830996
+"1595";"1999";1999-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";20279.634;1.02497709048937
+"1596";"1999";1999-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";29837.941;1.4713254193838
+"1597";"2000";2000-03-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";22732;0.76184881523829
+"1598";"2000";2000-06-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";23227;1.02177547070209
+"1599";"2000";2000-09-30;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";24798;1.06763680199768
+"1600";"2000";2000-12-31;"Milhões de reais (R$ 1.000.000)";"papel_moeda_emitido";32633;1.31595289942737
