@@ -1,4 +1,5 @@
-setwd("C:/Users/b2826073/Desktop/EBC/Moeda")
+#setwd("C:/Users/b2826073/Desktop/EBC/Moeda")
+setwd("..")
 
 
 library(dplyr)
